@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CarRental-app/static/css/main.924bf8f2.css",
+    "main.js": "/CarRental-app/static/js/main.f1522557.js",
+    "static/media/drive.png": "/CarRental-app/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/CarRental-app/index.html",
+    "main.924bf8f2.css.map": "/CarRental-app/static/css/main.924bf8f2.css.map",
+    "main.f1522557.js.map": "/CarRental-app/static/js/main.f1522557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924bf8f2.css",
+    "static/js/main.f1522557.js"
+  ]
+}
